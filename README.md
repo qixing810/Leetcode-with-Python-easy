@@ -1,1 +1,1 @@
-# Easy-Leetcode-with-Python
+# Leetcode-with-Python by difficulty : easy
